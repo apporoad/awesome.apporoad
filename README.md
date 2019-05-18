@@ -14,7 +14,7 @@
 
 * [**TinyLogDotNet**](https://github.com/apporoad/TinyLogDotNet) - 小小日志框架，极简日志封装，支持高并发写入，日志大小自动控制等
 
-* [**pplugins.js**](https://github.com/apporoad/vson) - pp主要为解决node依赖问题存在，比如产品同时支持mongo和mysql，但实际使用时我只用mongo，为什么install时还要把mysql的依赖加进来？
+* [**pplugins.js**](https://github.com/apporoad/pplugins.js) - pp主要为解决node依赖问题存在，比如产品同时支持mongo和mysql，但实际使用时我只用mongo，为什么install时还要把mysql的依赖加进来？
 
 * [**vson**](https://github.com/apporoad/vson) - 通过json快速生成view，支持查看、编辑、修改、删除等功能，插件化设计，可后续扩展模板
 
