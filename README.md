@@ -2,6 +2,7 @@
 
 自己的awesome list 
 
+* [**aok.js**](https://github.com/apporoad/aok.js) - 面向纯粹资源的api开发框架，抽离controller层，**急速**开发restful风格api
 * [**lustJson**](https://github.com/aceunlonely/lustJson) - 欲望之json，是一个高度抽象的底层引擎实现，more in uicli.js xget
 * [**uicli.js**](https://github.com/aceunlonely/uicli.js) - 命令行的交互，node中不是那么好写，uicli就是设计做这个的,基于lustjson的实现
 * [**xget**](https://github.com/aceunlonely/xget) - x get, 一个插件框架，可以从未知来源(可以是爬网、api、数据库、文本...)获取到你要的json信息，基于lustjson的实现
@@ -24,6 +25,6 @@
 
 * [**fastdfs-client-net**](https://github.com/aceunlonely/fastdfs-client-net) - fastdfs client的.net封装版本，解决fastdfs调用中的坑，已经过生产验证
 
-  
-
-more in [github](https://github.com/apporoad)
+* [**LiSA.json**](https://github.com/apporoad/LiSA.json) - json操作增强
+* [**LiSA.orbit.js**](https://github.com/apporoad/LiSA.orbit.js) - 任务执行组件，方法执行如入行星轨道
+* [**LiSA.sync**](https://github.com/apporoad/LiSA.sync) - 同步组件，方便内存对象同步到慢存储（文件、数据库、webapi等）
